@@ -1,4 +1,5 @@
 the RCE is removed.
+use github download zip cuz i dont wanna upload release
 
 # Meow Client is...
 * No GUI,
