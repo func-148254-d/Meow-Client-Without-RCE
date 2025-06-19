@@ -1,3 +1,5 @@
+the RCE is removed.
+
 # Meow Client is...
 * No GUI,
 * Myau Vibe,
