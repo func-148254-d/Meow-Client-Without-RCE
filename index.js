@@ -8,10 +8,4 @@ import "./trigger/Triggers";
 import "./killaura"
 import { APIUtils } from "./utils/APIUtils";
 
-let authenticated = false
-
-register("worldload", () => {
-    if (authenticated) return;
-    authenticated = true;
-    APIUtils.auth();
-})
+let authenticated = true
